@@ -31,5 +31,5 @@ git clone https://github.com/AndreGomes-pt/molchatdoma
    cd molchatdoma
    ```
  ### 3. Abra o ficheiro index.html no navegador.
- Ou aceda ao projeto publicado diretamente através do GitHub Pages: [Molchat Doma](https://github.com/AndreGomes-pt/molchatdoma/)
+ Ou aceda ao projeto publicado diretamente através do GitHub Pages: [Molchat Doma](https://andregomes-pt.github.io/molchatdoma/)
 
