@@ -1,6 +1,6 @@
 # Molchat Doma Fan Site - Projeto Educacional
 
-![Pré-visualização do Site](html/preview.png)
+![Pré-visualização do Site](docs/preview.png)
 
 Este é um projeto fictício criado como parte de um curso de desenvolvimento web. Trata-se de um site para a banda Molchat Doma, desenvolvido para demonstrar competências em HTML, CSS, Bootstrap e JavaScript. **Não possui qualquer afiliação oficial com a banda, gravadora ou representantes.**
 
