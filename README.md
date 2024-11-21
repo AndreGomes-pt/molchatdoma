@@ -1,4 +1,4 @@
-# Molchat Doma Fan Site - Projeto Educacional
+# Molchat Doma - Projeto Educacional
 
 ![Pré-visualização do Site](docs/preview.png)
 
@@ -16,7 +16,7 @@ Este é um projeto fictício criado como parte de um curso de desenvolvimento we
 ## Tecnologias Utilizadas
 
 - **HTML5** - Estrutura do site.  
-- **CSS3** - Estilização personalizada.  
+- **CSS** - Estilização personalizada.  
 - **Bootstrap** - Framework para estilização e responsividade.  
 - **JavaScript** - Scripts básicos, incluindo o modal inicial.
 
